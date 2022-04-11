@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Anthony (Tony) Nguyen</title>
-    <link>https://nguyen-anthony.github.io/</link>
-    <description>Recent content on Anthony (Tony) Nguyen</description>
+    <title>Posts on Anthony (Tony) Nguyen</title>
+    <link>https://nguyen-anthony.github.io/posts/</link>
+    <description>Recent content in Posts on Anthony (Tony) Nguyen</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 10 Apr 2022 13:34:02 -0500</lastBuildDate><atom:link href="https://nguyen-anthony.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 10 Apr 2022 13:34:02 -0500</lastBuildDate><atom:link href="https://nguyen-anthony.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>New Beginnings</title>
       <link>https://nguyen-anthony.github.io/posts/my-first-post/</link>

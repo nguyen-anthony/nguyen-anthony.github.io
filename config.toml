@@ -1,5 +1,5 @@
 baseURL = "https://nguyen-anthony.github.io"
-title = "ptoughkneigh"
+title = "Anthony (Tony) Nguyen"
 theme = "hugo-coder"
 languageCode = "en"
 defaultContentLanguage = "en"
@@ -18,7 +18,7 @@ author = "Tony Nguyen"
 description = "Tony Nguyen's personal website"
 keywords = "blog,developer,personal"
 info = ["Software Engineer", "Geek"]
-avatarURL = "images/avatar.jpg"
+avatarURL = "images/about.png"
 #gravatar = "john.doe@example.com"
 dateFormat = "January 2, 2006"
 since = 2019
