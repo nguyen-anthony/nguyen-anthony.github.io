@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>tech on Anthony (Tony) Nguyen</title>
+    <link>https://nguyen-anthony.github.io/categories/tech/</link>
+    <description>Recent content in tech on Anthony (Tony) Nguyen</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 10 Apr 2022 13:34:02 -0500</lastBuildDate><atom:link href="https://nguyen-anthony.github.io/categories/tech/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>New Beginnings</title>
+      <link>https://nguyen-anthony.github.io/posts/my-first-post/</link>
+      <pubDate>Sun, 10 Apr 2022 13:34:02 -0500</pubDate>
+      
+      <guid>https://nguyen-anthony.github.io/posts/my-first-post/</guid>
+      <description>My First Blog Post    I decided to go with building my personal site and portfolio with gohugo.io. I discovered Hugo during my time on the Technology Leadership Program at Target Corporation. It&amp;rsquo;s very easy to setup, uses GoLang to render all of the pages. Right now I&amp;rsquo;m sticking with pre-designed theme for now since this will mostly be just for me. However, I do want to explore building my own layouts one day.</description>
+    </item>
+    
+  </channel>
+</rss>

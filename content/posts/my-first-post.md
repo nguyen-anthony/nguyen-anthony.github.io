@@ -2,7 +2,8 @@
 title: "New Beginnings"
 date: 2022-04-10T13:34:02-05:00
 draft: false
-category: "tech"
+categories: ["tech"]
+author: ["Tony Nguyen"]
 ---
 
 # My First Blog Post
